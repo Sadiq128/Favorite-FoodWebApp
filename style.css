@@ -1,0 +1,52 @@
+.nav-bar{
+    background-color: black;
+    margin: 0px auto;
+    color:white
+ }
+ html{
+  background-color: darkgray;
+ 
+ }
+ .image{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+ }
+ #label1{
+   margin: 15px 250px 15px;
+   
+ 
+ }
+ #label2{
+   margin: 15px 250px 15px;
+   
+ 
+ }
+ #label3{
+   margin: 15px 250px 15px;
+   
+ 
+ }
+ #label4{
+   margin: 15px 250px 15px;
+   
+ 
+ }
+ #label5{
+   margin: 15px 250px 15px;
+   
+ 
+ }
+ #image{
+   margin-left: auto;
+   margin-right: auto;
+   width: 100px;
+ }
+ html{
+    scroll-behavior: smooth;
+ }
+ body{
+   margin:0px auto;
+ }
+
+ 
